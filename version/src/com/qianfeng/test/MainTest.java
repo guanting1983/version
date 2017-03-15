@@ -11,7 +11,6 @@ public class MainTest {
 	}
 
 	private static void sum() {
-		// TODO Auto-generated method stub
 		
 	}
 	
