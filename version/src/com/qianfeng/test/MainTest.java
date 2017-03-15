@@ -11,6 +11,7 @@ public class MainTest {
 	}
 
 	private static void sum() {
+		int i=3+4;
 		
 	}
 	
