@@ -9,6 +9,13 @@ public class MainTest {
 		
 		mul();
 		
+		del();
+		
+	}
+
+	private static void del() {
+		// TODO Auto-generated method stub
+		
 	}
 
 	private static void mul() {
