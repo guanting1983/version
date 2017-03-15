@@ -7,6 +7,11 @@ public class MainTest {
 		
 		sum();
 		
+		mul();
+		
+	}
+
+	private static void mul() {
 		
 	}
 
