@@ -7,20 +7,17 @@ public class MainTest {
 		
 		sum();
 		
-		mul();
+		print();
 		
-		del();
 		
 	}
 
-	private static void del() {
+
+	private static void print() {
 		// TODO Auto-generated method stub
 		
 	}
 
-	private static void mul() {
-		
-	}
 
 	private static void sum() {
 		int i=3+4;
